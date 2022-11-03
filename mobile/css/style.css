@@ -78,6 +78,7 @@ img {
   line-height: 26px;
   margin-bottom: 30px;
   color: #222222;
+  text-align: justify;
 }
 .emag-content p em {
   font-style: italic;
